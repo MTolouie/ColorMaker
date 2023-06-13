@@ -9,6 +9,19 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
-	
+    private void sldRed_ValueChanged(object sender, ValueChangedEventArgs e)
+    {
+
+    }
+
+    private void btnRandom_Clicked(object sender, EventArgs e)
+    {
+
+    }
+
+    private void ImageButton_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }
 
